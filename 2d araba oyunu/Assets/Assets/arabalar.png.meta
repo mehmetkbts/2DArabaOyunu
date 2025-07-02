@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: 5e1fbad23145b144495268804faca522
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 258102292189621360
+    second: arabalar_0
+  - first:
+      213: -8623536388752671716
+    second: arabalar_1
+  - first:
+      213: 8386031043942303502
+    second: arabalar_2
+  - first:
+      213: 294757485651491392
+    second: arabalar_3
+  - first:
+      213: 4176705113193913270
+    second: arabalar_4
+  - first:
+      213: -128333961414016722
+    second: arabalar_5
+  - first:
+      213: 5880930719064804328
+    second: arabalar_6
+  - first:
+      213: -3018172210392503985
+    second: arabalar_7
+  - first:
+      213: 734779486150983324
+    second: arabalar_8
+  - first:
+      213: -6190037110613041276
+    second: arabalar_9
+  - first:
+      213: 5125437301732648092
+    second: arabalar_10
+  - first:
+      213: 8521202552791303271
+    second: arabalar_11
+  - first:
+      213: 1227216683477103534
+    second: arabalar_12
+  - first:
+      213: 5747042927057158140
+    second: arabalar_13
+  - first:
+      213: 5824183176940995995
+    second: arabalar_14
+  - first:
+      213: 2040788312946495712
+    second: arabalar_15
+  - first:
+      213: 3088115104353216028
+    second: arabalar_16
+  - first:
+      213: -5566333476957324365
+    second: arabalar_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: arabalar_0
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 589
+        width: 99
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53eab45b9ff4bff43abdfd8b7b1ff766
+      internalID: 18942008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arabalar_1
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 587
+        width: 98
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf0f2229eefe2b45a7436439f1df487
+      internalID: -1737307907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arabalar_2
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 582
+        width: 101
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094db74f2ca0ed74eaab6e2882b2046d
+      internalID: 1993520092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arabalar_3
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 575
+        width: 106
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afbc08355ff8ac428e1bbd596e45a6b
+      internalID: -1347202771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arabalar_4
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 590
+        width: 99
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a703d5ef770a84b9b9ccfd09018f1b
+      internalID: 1870755472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arabalar_5
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 565
+        width: 112
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef901d72760f27e4da138338a36a66cd
+      internalID: -1871356646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arabalar_6
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 364
+        width: 100
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272b5d0e8914d8c409abd4865ba9b21d
+      internalID: -1926443321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arabalar_7
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 363
+        width: 100
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27ff609d0e5cc748836cf246bdd1ec1
+      internalID: 1453683101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arabalar_8
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 364
+        width: 105
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d64e500014580f4a8520b8642047c20
+      internalID: 1517597081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arabalar_9
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 365
+        width: 100
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb35822b7e8ad7489466a604d9816e1
+      internalID: -203051578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arabalar_10
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 363
+        width: 101
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd05bb794336a348a7ff571038c43d3
+      internalID: 907172528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arabalar_11
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 362
+        width: 102
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3c44eae23a07849adf82165d240335
+      internalID: -1036253159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arabalar_12
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 46
+        width: 119
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cee5a3cf9458ad47a8a58fbe7872252
+      internalID: 2123268557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arabalar_13
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 77
+        width: 114
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5fe46ed853a084faf970d9a51ac533
+      internalID: -1429673519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arabalar_14
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 73
+        width: 113
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2df55983a35fa4393122b1ec0fd54e
+      internalID: -1874066359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arabalar_15
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 87
+        width: 113
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120fa7dee1fdcd94fb5b6b01d340de00
+      internalID: 1952423605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arabalar_16
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 78
+        width: 103
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b97bb9472b07d4ead88625302a1e8c
+      internalID: -27657080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arabalar_17
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 72
+        width: 105
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438c948bd61dfbc4aae71e60baa56566
+      internalID: -130424648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 86cea10c1f15ab64e869335587b342e3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      arabalar_0: 18942008
+      arabalar_1: -1737307907
+      arabalar_10: 907172528
+      arabalar_11: -1036253159
+      arabalar_12: 2123268557
+      arabalar_13: -1429673519
+      arabalar_14: -1874066359
+      arabalar_15: 1952423605
+      arabalar_16: -27657080
+      arabalar_17: -130424648
+      arabalar_2: 1993520092
+      arabalar_3: -1347202771
+      arabalar_4: 1870755472
+      arabalar_5: -1871356646
+      arabalar_6: -1926443321
+      arabalar_7: 1453683101
+      arabalar_8: 1517597081
+      arabalar_9: -203051578
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
